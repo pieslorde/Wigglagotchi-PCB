@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Wigglagotchi.PcbDoc]
+   Generated File[Wigglagotchi.TXT]
+   Generated File[Wigglagotchi.LDP]
+   Generated File[Wigglagotchi.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:30:58 PM On 2022-08-11
